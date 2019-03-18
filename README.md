@@ -23,11 +23,10 @@ Call the ImageSlicer.class from the console with the following parameters, in th
 1) originalImagePath
 2) imageSize (in px)
 3) outputFolder
-https://mega.nz/#!ar4F0KAJ!TjTl9WMrkWZfRQJArf55Jx7f8czd_qL7HDd51pvki3s
 
 Example call:
 
 ```
-java ImageSlicer C:/Users/standard/images/insertCoolImage.png 504 C:/Users/standard/images/sclices
+java ImageSlicer C:/Users/standard/images/insertCoolImage.png 504 C:/Users/standard/images/slices
 ```
 
