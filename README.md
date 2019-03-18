@@ -10,7 +10,7 @@ In order to use the program with 126px x 126px pre configuration, use the ImageS
 
 Requires Java for executing.
 
-Correct execution only with images quadratic images, which have widths/heights that are multiples of 126.
+Correct execution only with quadratic images, which have widths/heights that are multiples of 126.
 
 ## Executing the program
 
