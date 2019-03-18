@@ -6,7 +6,7 @@ Small program, which slices an image into 126px x 126px (or custom size) image s
 
 In order to use the program with 126px x 126px pre configuration, use the ImageSlicer.class, otherwise downlaod the code and replace the 126 with your custom size.
 
-##Download
+## Download
 * [ImageSlicer.class](https://mega.nz/#!ar4F0KAJ!TjTl9WMrkWZfRQJArf55Jx7f8czd_qL7HDd51pvki3s)
 
 
