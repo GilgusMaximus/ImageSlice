@@ -23,6 +23,6 @@ Call the ImageSlicer.class from the console with the following parameters, in th
 Example call:
 
 ```
-java ImageSlicer.class C:/Users/standard/images/insertCoolImage.png 504 C:/Users/standard/images/sclices
+java ImageSlicer C:/Users/standard/images/insertCoolImage.png 504 C:/Users/standard/images/sclices
 ```
 
